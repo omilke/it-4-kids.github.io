@@ -1,0 +1,60 @@
+- organization: devoxx4kidsde
+  name: Devoxx4Kids Deutschland
+  language: de
+  website: https://www.devoxx4kids.de/
+  tutorials: https://github.com/devoxx4kids/materials
+  slogan: Das Ziel der Devoxx4Kids ist, Kindern kreativeren Umgang mit Computern zu ermöglichen und ihnen mit Spaß das Programmieren beizubringen.
+  topics:
+    - Scratch
+    - Greenfoot
+    - Lego Mindstorms
+    - NAO Humanoider Roboter
+    - Minecraft Modding
+    - Elektronik
+  locations:
+    - Karlsruhe
+    - Hamburg
+    - Wiesbaden
+    - Paderborn
+    - Thüringen
+    - München
+- organization: devoxx4kids
+  name: Devoxx4Kids
+  language: en
+  website: https://www.devoxx4kids.org/
+  tutorials: https://github.com/devoxx4kids/materials
+  locations:
+    - Belgium
+- organization: kids4it
+  name: Kids For IT
+  language: de
+  website: https://www.kids4it.de/
+  locations:
+    - Hamburg
+  slogan: "Wir wollen Euch zeigen, dass es möglich ist, kreativ mit dem Computer zu arbeiten. Deswegen haben wir Kids4IT in Hamburg gegründet. Unser Motto ist: 'Einfach mal anfangen!'"
+- organization: jugendhackt
+  name: Jugend Hackt
+  language: de
+  website: https://jugendhackt.org/
+  slogan: "Mit Code die Welt verbessern"
+- organization: coderdojo 
+  name: CoderDojo
+  language: 
+    - de
+    - en
+  website: https://coderdojo.com/de-DE
+  slogan: "Die Gemeinschaft aus 2351 kostenlosen, offenen und lokalen Programmierclubs für junge Menschen"
+- organization: hackerschool
+  name: Hacker School
+  language: de
+  website: https://hacker-school.de/
+  locations:
+    - Hamburg
+  slogan: "Wir begeistern für's Programmieren"
+- organization: it4kids
+  name: IT4Kids e.V.
+  language: de
+  website: https://www.it-for-kids.org/
+  locations:
+    - Aachen
+  slogan: "IT4Kids bietet spielerische digitale Bildung für die 3. bis 6. Klasse, um Logik- und Prozessdenken zu fördern. Wir begleiten Ihre Schule durch die Digitalisierung und geben allen Kindern Zugang zu digitaler Bildung."
