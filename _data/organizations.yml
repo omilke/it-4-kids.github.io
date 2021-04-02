@@ -2,7 +2,7 @@
   name: Devoxx4Kids Deutschland
   language: de
   website: https://www.devoxx4kids.de/
-  tutorials: https://github.com/devoxx4kids/materials
+  tutorials: https://github.com/devoxx4kidsde
   slogan: Das Ziel der Devoxx4Kids ist, Kindern kreativeren Umgang mit Computern zu ermöglichen und ihnen mit Spaß das Programmieren beizubringen.
   topics:
     - Scratch
@@ -12,12 +12,12 @@
     - Minecraft Modding
     - Elektronik
   locations:
-    - Karlsruhe
-    - Hamburg
-    - Wiesbaden
-    - Paderborn
-    - Thüringen
-    - München
+    - Karlsruhe:
+      Hamburg:
+      Wiesbaden:
+      Paderborn: https://gitlab.com/devoxx4kids-paderborn
+      Thüringen:
+      München:
 - organization: devoxx4kids
   name: Devoxx4Kids
   language: en
