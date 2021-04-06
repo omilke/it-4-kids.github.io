@@ -58,3 +58,10 @@
   locations:
     - Aachen
   slogan: "IT4Kids bietet spielerische digitale Bildung für die 3. bis 6. Klasse, um Logik- und Prozessdenken zu fördern. Wir begleiten Ihre Schule durch die Digitalisierung und geben allen Kindern Zugang zu digitaler Bildung."
+- organization: makeyourschool
+  name: Make Your School
+  language: de
+  website: https://www.makeyourschool.de/
+  locations:
+    - Berlin
+  slogan: "Wir bringen Hackdays an Schulen"
